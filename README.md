@@ -20,7 +20,7 @@
 
 ### Demo Screeshots
 
-![Organic-Login Desktop Demo](./desktop.jpg "Desktop Demo")
+![Organic-Login Desktop Demo](./desktop.png "Desktop Demo")
 
 ### Prerequisites
 
